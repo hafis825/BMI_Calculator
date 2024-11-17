@@ -13,8 +13,8 @@
 ### วิธีที่ 1: รันด้วย Python
 ```bash
 # 1. Clone repository
-git clone https://github.com/USERNAME/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/hafis825/BMI_Calculator.git
+cd BMI_Calculator.git
 
 # 2. สร้าง virtual environment
 python -m venv venv
