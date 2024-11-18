@@ -14,7 +14,7 @@
 ```bash
 # 1. Clone repository
 git clone https://github.com/hafis825/BMI_Calculator.git
-cd BMI_Calculator.git
+cd BMI_Calculator
 
 # 2. สร้าง virtual environment
 python -m venv venv
